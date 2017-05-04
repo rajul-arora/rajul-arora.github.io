@@ -1,0 +1,3 @@
+[submodule "kasper"]
+    path = kasper
+    url = git://git@github.com:rosario/kasper.git
