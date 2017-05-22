@@ -1,9 +1,1 @@
-[submodule "hugo-strata-theme"]
-    path = docs/themes/hugo-strata-theme
-    url = https://github.com/digitalcraftsman/hugo-strata-theme.git
-
-[submodule "hugo-strata-theme"]
-    path = rajul-arora/themes/hugo-strata-theme
-    url = https://github.com/digitalcraftsman/hugo-strata-theme.git
-
 
