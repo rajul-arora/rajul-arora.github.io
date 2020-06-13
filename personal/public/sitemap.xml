@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rajul-arora.com/posts/</loc>
+    <lastmod>2020-06-13T08:20:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajul-arora.com/</loc>
+    <lastmod>2020-06-13T08:20:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajul-arora.com/tags/</loc>
+    <lastmod>2020-06-13T08:20:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajul-arora.com/posts/tbd/</loc>
+    <lastmod>2020-06-13T08:20:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajul-arora.com/tags/untagged/</loc>
+    <lastmod>2020-06-13T08:20:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajul-arora.com/resume/</loc>
+    <lastmod>2020-06-13T08:18:18-07:00</lastmod>
+  </url>
+  
+</urlset>
