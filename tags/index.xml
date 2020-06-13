@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rajul Arora</title>
-    <link>https://rajul-arora.com/tags/</link>
+    <link>https://rajul-arora.github.io/tags/</link>
     <description>Recent content in Tags on Rajul Arora</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 13 Jun 2020 08:20:56 -0700</lastBuildDate>
     
-	<atom:link href="https://rajul-arora.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rajul-arora.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>untagged</title>
-      <link>https://rajul-arora.com/tags/untagged/</link>
+      <link>https://rajul-arora.github.io/tags/untagged/</link>
       <pubDate>Sat, 13 Jun 2020 08:20:56 -0700</pubDate>
       
-      <guid>https://rajul-arora.com/tags/untagged/</guid>
+      <guid>https://rajul-arora.github.io/tags/untagged/</guid>
       <description></description>
     </item>
     
