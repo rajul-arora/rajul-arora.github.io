@@ -1,0 +1,4 @@
+baseURL = 'https://rajul-arora.com/'
+languageCode = 'en-us'
+title = 'Rajul Arora'
+theme = 'etch'
